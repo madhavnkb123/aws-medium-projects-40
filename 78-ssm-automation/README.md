@@ -1,0 +1,2 @@
+# Systems Manager Automation
+Create an SSM Automation runbook for a repeatable operational task such as restarting an application service, validating an instance, or rotating a configuration. Require approvals for production changes.
