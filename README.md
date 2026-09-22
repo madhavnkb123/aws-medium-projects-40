@@ -60,3 +60,17 @@ aws configure
 ```
 
 Each project contains its own README with setup notes and environment variables.
+
+
+## Projects 41–100: Industry Teaching Track
+
+These projects extend the original 40 into production-oriented teaching: storage governance, serverless reliability, API operations, observability, security, networking, databases, containers and deployment operations.
+
+- 41–50: S3 and DynamoDB production patterns
+- 51–60: Lambda production patterns
+- 61–70: API Gateway, SQS, SNS and EventBridge operations
+- 71–80: Observability, CloudTrail, Systems Manager and KMS
+- 81–90: VPC, ALB and Auto Scaling operations
+- 91–100: RDS, ElastiCache, OpenSearch, ECR and ECS
+
+**Industry teaching focus:** architecture, IAM, monitoring, automation, reliability, security, cost awareness and deployment operations. Review every write/delete operation in a non-production AWS account before execution.
