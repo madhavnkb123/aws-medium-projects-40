@@ -1,0 +1,2 @@
+# Lambda Provisioned Concurrency
+Configure provisioned concurrency for latency-sensitive production functions using the AWS Lambda console, CLI, SAM, or CloudFormation. Start with a small value, monitor utilization and cost, and scale according to traffic.
