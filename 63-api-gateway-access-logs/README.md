@@ -1,0 +1,2 @@
+# API Gateway Access Logs
+Enable stage access logging to CloudWatch Logs using a structured JSON format. Include request ID, status, latency, route and source IP as appropriate for your organization's privacy policy.
