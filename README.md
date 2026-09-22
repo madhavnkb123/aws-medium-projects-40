@@ -53,6 +53,9 @@ python -m venv .venv
 # Windows: .venv\Scripts\activate
 # Linux/macOS: source .venv/bin/activate
 pip install -r requirements.txt
+
+## Project folders
+Every numbered folder is an independent hands-on project. Check the source file for required environment variables and AWS resources.
 aws configure
 ```
 
