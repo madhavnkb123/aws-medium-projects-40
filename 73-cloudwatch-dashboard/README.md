@@ -1,0 +1,2 @@
+# CloudWatch Dashboard
+Create a dashboard containing Lambda errors, duration, API Gateway latency, SQS queue depth and application custom metrics. Use a shared JSON dashboard definition and parameterize resource names for each environment.
