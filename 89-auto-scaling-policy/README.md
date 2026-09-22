@@ -1,0 +1,2 @@
+# Auto Scaling Policy
+Configure target-tracking or step scaling for an Auto Scaling group. Use CloudWatch metrics, define cooldown behavior, test with load, and document min/max capacity and cost limits.
