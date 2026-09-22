@@ -1,0 +1,8 @@
+{
+  "Comment":"Simple two-step workflow",
+  "StartAt":"Validate",
+  "States":{
+    "Validate":{"Type":"Pass","Result":{"valid":true},"Next":"Process"},
+    "Process":{"Type":"Pass","Result":{"message":"Processed by Step Functions"},"End":true}
+  }
+}
