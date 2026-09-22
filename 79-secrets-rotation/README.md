@@ -1,0 +1,2 @@
+# Secrets Manager Rotation
+Design a Secrets Manager rotation workflow using a Lambda rotation function. Separate create-secret, set-secret, test-secret and finish-secret stages and validate the new credential before promotion.
